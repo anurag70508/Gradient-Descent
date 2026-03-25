@@ -33,3 +33,13 @@ Where:
 ---
 
 ## 📂 Project Structure
+├── gradient_descent.ipynb # Main implementation
+├── data/ # Dataset (if any)
+├── plots/ # Graphs/visualizations
+└── README.md # Project documentation
+---
+📈 Applications
+Linear Regression
+Logistic Regression
+Neural Networks
+Deep Learning optimization
