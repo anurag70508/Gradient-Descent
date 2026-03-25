@@ -38,8 +38,14 @@ Where:
 ├── plots/ # Graphs/visualizations
 └── README.md # Project documentation
 ---
-📈 Applications
-Linear Regression
-Logistic Regression
-Neural Networks
-Deep Learning optimization
+
+---
+
+## 📈 Applications
+- Linear Regression  
+- Logistic Regression  
+- Neural Networks  
+- Deep Learning optimization  
+
+---
+
